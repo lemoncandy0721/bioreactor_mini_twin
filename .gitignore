@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+# 대용량 공개 데이터는 저장소에 올리지 않음 (로더가 내려받아 변환)
+data/raw/
